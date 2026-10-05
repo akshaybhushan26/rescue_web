@@ -224,4 +224,4 @@ A public demo needs isolated visitor state or controlled access, bounded storage
 
 ## About
 
-Built by **Akshay Bhushan** as an independent engineering project exploring reliable agent integrations. Inspired by the operational challenges of order automation; not affiliated with or endorsed by Trelium.
+Built by **Akshay Bhushan** as an independent engineering project exploring reliable agent integrations. Inspired by the operational challenges of order automation.
